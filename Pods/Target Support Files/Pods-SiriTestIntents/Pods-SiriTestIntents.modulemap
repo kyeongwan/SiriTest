@@ -1,0 +1,6 @@
+framework module Pods_SiriTestIntents {
+  umbrella header "Pods-SiriTestIntents-umbrella.h"
+
+  export *
+  module * { export * }
+}
